@@ -1,5 +1,5 @@
 public class Test{
-  public static main(String[] ages){
+  public static main(String[] args){
     System.out.println("aaaaaaaaaaa");
   }
 }
